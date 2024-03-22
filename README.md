@@ -1,5 +1,4 @@
-Luís Magno ![image](https://github.com/Luisfilipemagno/Luisfilipemagno/assets/164562653/a2e1d283-4afd-429a-8200-f93d29ad448f)
-
+ ![image](https://github.com/Luisfilipemagno/Luisfilipemagno/assets/164562653/a2e1d283-4afd-429a-8200-f93d29ad448f)
 
 
 **Luisfilipemagno/Luisfilipemagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
