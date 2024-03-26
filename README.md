@@ -11,4 +11,7 @@ Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico
 . 🌱 Atualmente estou aprendendo desenvolvimento de sistema
 . 📫 Como entrar em contato comigo: luizfilipemagno@gmail.com
 . 😄 Pronomes: ELE/DELE
-. ⚡ Curiosidade: Gosto de vidiogames, gosto de basquete (meu time da NBA Golden State Warriors)
+. ⚡ Curiosidade: Gosto de vidiogames, gosto de basquete (meu time da NBA Golden State Warriors) ![image](https://github.com/Luisfilipemagno/Luisfilipemagno/assets/164562653/efad767f-b049-4fd3-85c5-3a23d03934cb)
+
+
+
