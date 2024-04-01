@@ -13,7 +13,7 @@ Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico
 
 .  Como entrar em contato comigo: luizfilipemagno@gmail.com
 
-.  Curiosidade: Gosto de vidiogames, gosto de basquete (meu time da NBA Golden State Warriors) 
+.  Curiosidade: Gosto de vidiogames, gosto de basquete (meu time da NBA Golden State Warriors) e gosto muito de Power Rangers 
 
 
 
