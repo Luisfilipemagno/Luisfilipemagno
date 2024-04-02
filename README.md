@@ -17,9 +17,5 @@ Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico
 
 
 
-![image](https://github.com/Luisfilipemagno/Luisfilipemagno/assets/164562653/96ff221e-50e4-4a75-a32e-191f2cb37e3f)
-
-
-
 
 
