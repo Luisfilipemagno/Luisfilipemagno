@@ -11,7 +11,7 @@ Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico
 
 . Sou CO-fundador da Ruralsync
   instagram:ruralsync
-  email:ruralsync2025@gmail.com
+  email: ruralsync2025@gmail.com
 
 .  Como entrar em contato comigo: lfmagnogomes@gmail.com
 
