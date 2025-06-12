@@ -11,7 +11,7 @@ Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico
 
 .  Atualmente estou aprendendo desenvolvimento de sistema
 
-.  Como entrar em contato comigo: luizfilipemagno@gmail.com
+.  Como entrar em contato comigo: lfmagnogomes@gmail.com
 
 .  Curiosidade: Gosto de vidiogames, gosto muito de Power Rangers e gosto de basquete (meu time da NBA Golden State Warriors)
 
