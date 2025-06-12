@@ -5,15 +5,19 @@
 
 Here are some ideas to get you started:
 
-Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico de desenvolvimento de sistemas
+Olá!! eu me chamo Luis Filipe Magno , sou estudante de ensino médio e técnico de desenvolvimento de sistemas 2/3
 
 .  atualmente estou estudando no Senac (Recife)
 
-.  Atualmente estou aprendendo desenvolvimento de sistema
+. Sou CO-fundador da Ruralsync
+  instagram:ruralsync
+  email:ruralsync2025@gmail.com
 
 .  Como entrar em contato comigo: lfmagnogomes@gmail.com
 
-.  Curiosidade: Gosto de vidiogames, gosto muito de Power Rangers e gosto de basquete (meu time da NBA Golden State Warriors)
+Curiosidades 
+. tenho certificado do curso Coletivo Online, programa do instituto Coca-cola Brasil.
+. gosto muito de futebol e basquete
 
 
 
